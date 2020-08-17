@@ -1,4 +1,4 @@
-# Amazon-cell-phone-review-analysis
+# Amazon cell phone review analysis
 
 In this project, I have used the text reviews given by Amazon users for mobile phones for analysis. The dataset was obtained from: [https://www.kaggle.com/grikomsn/amazon-cell-phones-reviews](Kaggle)
 
